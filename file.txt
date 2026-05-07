@@ -1,2 +1,2 @@
-This test file.
+This test.
 I have added some content.
